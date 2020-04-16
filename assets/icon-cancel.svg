@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon-cancel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-cancel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3,18.5 L33,18.5" id="Line" stroke="#F6C203" stroke-width="2" transform="translate(18.000000, 18.500000) rotate(-315.000000) translate(-18.000000, -18.500000) "></path>
+        <path d="M3,18.5 L33,18.5" id="Line" stroke="#F6C203" stroke-width="2" transform="translate(18.000000, 18.500000) rotate(-45.000000) translate(-18.000000, -18.500000) "></path>
+    </g>
+</svg>
